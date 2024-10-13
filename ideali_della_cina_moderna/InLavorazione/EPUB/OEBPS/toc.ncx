@@ -37,9 +37,40 @@
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>IDEALI DELLA CINA MODERNA</text>
       </navLabel>
       <content src="Text/pagina_5_frontespizio.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>LA CINA DEL PASSATO</text>
+      </navLabel>
+      <content src="Text/sezione_0001_libro.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>LA GROTTA DEL CERVO BIANCO</text>
+      </navLabel>
+      <content src="Text/sezione_0002_libro.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>ORIGINI DEL RINNOVAMENTO DEL PENSIERO CINESE</text>
+      </navLabel>
+      <content src="Text/sezione_0003_libro.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>NOTA BIBLIOGRAFICA</text>
+      </navLabel>
+      <content src="Text/sezione_0004_libro.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>NOTE</text>
+      </navLabel>
+      <content src="Text/pagina_6_note_libro.xhtml"/>
+    </navPoint>
+
   </navMap>
 </ncx>
