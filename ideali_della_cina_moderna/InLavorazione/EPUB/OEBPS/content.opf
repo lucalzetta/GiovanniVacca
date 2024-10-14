@@ -42,12 +42,12 @@
     <itemref idref="pagina_3_donazioni.xhtml"/>
     <itemref idref="pagina_4_indice_libro.xhtml"/>
     <itemref idref="pagina_5_frontespizio.xhtml"/>
-    <itemref idref="pagina_6_note_libro.xhtml"/>
     <itemref idref="sezione_0001_libro.xhtml"/>
     <itemref idref="sezione_0002_libro.xhtml"/>
     <itemref idref="sezione_0003_libro.xhtml"/>
     <itemref idref="sezione_0004_libro.xhtml"/>
-    <itemref idref="sezione_0005_libro.xhtml"/>                    
+    <itemref idref="sezione_0005_libro.xhtml"/>
+    <itemref idref="pagina_6_note_libro.xhtml"/>                     
   </spine>
   <guide>
     <reference type="cover" title="Cover" href="Text/pagina_1_copertina_libro.xhtml"/>

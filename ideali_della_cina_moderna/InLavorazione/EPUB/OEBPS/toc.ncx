@@ -45,25 +45,25 @@
       <navLabel>
         <text>LA CINA DEL PASSATO</text>
       </navLabel>
-      <content src="Text/sezione_0001_libro.xhtml"/>
+      <content src="Text/sezione_0002_libro.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-7" playOrder="7">
       <navLabel>
         <text>LA GROTTA DEL CERVO BIANCO</text>
       </navLabel>
-      <content src="Text/sezione_0002_libro.xhtml"/>
+      <content src="Text/sezione_0003_libro.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-8" playOrder="8">
       <navLabel>
         <text>ORIGINI DEL RINNOVAMENTO DEL PENSIERO CINESE</text>
       </navLabel>
-      <content src="Text/sezione_0003_libro.xhtml"/>
+      <content src="Text/sezione_0004_libro.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-9" playOrder="9">
       <navLabel>
         <text>NOTA BIBLIOGRAFICA</text>
       </navLabel>
-      <content src="Text/sezione_0004_libro.xhtml"/>
+      <content src="Text/sezione_0005_libro.xhtml"/>
     </navPoint>
     <navPoint id="navPoint-10" playOrder="10">
       <navLabel>
