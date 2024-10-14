@@ -70,6 +70,11 @@ text-align : center;
 font-size : 160%;
  text-align : center;
 }
+.testo_frontespizio_titolo_rid {
+font-size : medium;
+ text-align : center;
+}
+
 .testo_grande {
 font-size : x-large;
 font-weight : bold;

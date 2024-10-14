@@ -34,6 +34,7 @@
     <item id="sezione_0005_libro.xhtml" href="Text/sezione_0005_libro.xhtml" media-type="application/xhtml+xml"/>        
     <item id="x2_euro.png" href="Images/2_euro.png" media-type="image/png"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg"/>
+    <item id="IISMEO.png" href="Images/IISMEO.png" media-type="image/png"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="pagina_1_copertina_libro.xhtml"/>
