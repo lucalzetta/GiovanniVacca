@@ -65,12 +65,6 @@
       </navLabel>
       <content src="Text/sezione_0005_libro.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-10" playOrder="10">
-      <navLabel>
-        <text>NOTE</text>
-      </navLabel>
-      <content src="Text/pagina_6_note_libro.xhtml"/>
-    </navPoint>
 
   </navMap>
 </ncx>

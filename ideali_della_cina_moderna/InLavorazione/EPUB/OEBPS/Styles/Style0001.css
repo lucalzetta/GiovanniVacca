@@ -156,6 +156,10 @@ text-align : left;
 font-style : normal;
 }
 
+span.maiuscoletto {
+font-variant : small-caps;
+}
+
 /* Stili Liber Liber 2016-08-22 - stili specifici INIZIO */
 
 /* Stili Liber Liber 2016-08-22 - stili specifici FINE */
