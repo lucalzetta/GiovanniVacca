@@ -37,7 +37,7 @@
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
-        <text>Introduzione</text>
+        <text>SOMMARIO – SOMMAIRE – SUMMARY</text>
       </navLabel>
       <content src="Text/pagina_6_sommario_libro.xhtml"/>
     </navPoint>

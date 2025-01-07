@@ -19,6 +19,15 @@ text-align : center;
 h3 {
 text-align : center;
 }
+/*Il seguente valore è stato modificato per il frontespizio di Origini della scienza di Giovanni Vacca
+07-01-2025*/
+p{
+padding-top : 0.25em;
+margin-top : 0em;
+padding-bottom : 0em;
+margin-bottom : 0em;
+text-indent : 2em;
+}
 img {
 border-width : 0;
 }
@@ -66,8 +75,10 @@ padding-top: 2em;
 font-size : 120%;
 text-align : center;
 }
+/*Il seguente valore è stato modificato per il frontespizio di Origini della scienza di Giovanni Vacca
+07-01-2025*/
 .testo_frontespizio_titolo {
-font-size : 160%;
+font-size : 250%;
  text-align : center;
 }
 .testo_grande {
@@ -151,6 +162,28 @@ text-align : left;
 font-style : normal;
 }
 
-/* Stili Liber Liber 2016-08-22 - stili specifici INIZIO */
+/* Stili Liber Liber 2025-01-07 - stili specifici INIZIO */
 
-/* Stili Liber Liber 2016-08-22 - stili specifici FINE */
+p.testo_centrato_lontano{
+text-align : center;
+padding-top : 5em;
+padding-bottom : 2em;
+}
+
+p.editore_max{
+text-align : center;
+font-family : sans-serif;
+font-weight : 900;
+font-size : large;
+letter-spacing :1em;
+}
+
+p.editore_min{
+text-align : center;
+font-family : sans-serif;
+font-weight : 400;
+font-size : medium;
+/*letter-spacing :1em;*/
+}
+
+/* Stili Liber Liber 2025-01-07 - stili specifici FINE */
