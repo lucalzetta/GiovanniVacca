@@ -1,3 +1,5 @@
 06-01-2025 21:20 Ripreso lavorazione, elaborato frontespizio, da completare
 
 07-01-2025 09:31 Definizione stile frontespizio. Elaborazione sommario, adeguamento indice e toc.ncx
+
+14-01-2025 18:47 Aggiunta della pagina della dedica, aggiunta della pagina della prefazione, aggiornamento di toc e indice, migliorato il foglio di stile per una resa più fedele all'originale della prefazione

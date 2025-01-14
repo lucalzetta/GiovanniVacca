@@ -186,4 +186,16 @@ font-size : medium;
 /*letter-spacing :1em;*/
 }
 
+p.testo_destro{
+text-align : right;
+}
+
+span.testo_maiuscoletto{
+font-variant : small-caps;
+}
+/*elemento inserito per migliorare la resa della prefazione del libro 'Origini della scienza'*/
+span.testo_ridotto{
+font-weight : 800;
+font-size : 0.8em;
+}
 /* Stili Liber Liber 2025-01-07 - stili specifici FINE */

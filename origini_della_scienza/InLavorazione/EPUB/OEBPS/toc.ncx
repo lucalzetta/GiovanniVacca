@@ -41,6 +41,12 @@
       </navLabel>
       <content src="Text/pagina_6_sommario_libro.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Prefazione</text>
+      </navLabel>
+      <content src="Text/pagina_8_prefazione_libro.xhtml"/>
+    </navPoint>
 
   </navMap>
 </ncx>
