@@ -82,11 +82,11 @@ font-size : 250%;
  text-align : center;
 }
 .testo_grande {
-font-size : x-large;
+font-size : 1.5em;
 font-weight : bold;
 }
 .testo_grande-x {
-font-size : xx-large;
+font-size : 2em;
 font-weight : bold;
 }
 .testo_ind {
@@ -148,10 +148,10 @@ color : #400;
 margin-bottom : 0;
 }
 .testo_piccolo {
-font-size : small;
+font-size : 0.82em;
 }
 .testo_piccolo-x {
-font-size : x-small;
+font-size : 0.75em;
 }
 .testo_poesia {
 margin-left : 1em;
@@ -178,7 +178,7 @@ p.editore_max{
 text-align : center;
 font-family : sans-serif;
 font-weight : 900;
-font-size : large;
+font-size : 1.2em;
 letter-spacing :1em;
 }
 
@@ -186,7 +186,7 @@ p.editore_min{
 text-align : center;
 font-family : sans-serif;
 font-weight : 400;
-font-size : medium;
+font-size : 1em;
 /*letter-spacing :1em;*/
 }
 

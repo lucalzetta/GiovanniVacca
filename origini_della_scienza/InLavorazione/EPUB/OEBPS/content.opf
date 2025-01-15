@@ -34,29 +34,18 @@
     <item id="Sezione_0001_0000_0000_libro.xhtml" href="Text/Sezione_0001_0000_0000_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="Sezione_0002_0000_0000_libro.xhtml" href="Text/Sezione_0002_0000_0000_libro.xhtml" media-type="application/xhtml+xml"/>
     <item id="Sezione_0003_0000_0000_libro.xhtml" href="Text/Sezione_0003_0000_0000_libro.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Sezione_0004_0000_0000_libro.xhtml" href="Text/Sezione_0004_0000_0000_libro.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Sezione_0005_0000_0000_libro.xhtml" href="Text/Sezione_0005_0000_0000_libro.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Sezione_0006_0000_0000_libro.xhtml" href="Text/Sezione_0006_0000_0000_libro.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Sezione_0007_0000_0000_libro.xhtml" href="Text/Sezione_0007_0000_0000_libro.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="pagina_1_copertina_libro.xhtml"/>
     <itemref idref="pagina_2_colophon_libro.xhtml"/>
     <itemref idref="pagina_3_donazioni.xhtml"/>
-    <itemref idref="pagina_5_frontespizio.xhtml"/>
     <itemref idref="pagina_4_indice_libro.xhtml"/>
     <itemref idref="pagina_6_sommario_libro.xhtml"/>
-    <itemref idref="pagina_7_dedica_libro.xhtml"/>
     <itemref idref="pagina_8_prefazione_libro.xhtml"/>
     <itemref idref="pagina_9_note_libro.xhtml"/>
     <itemref idref="Sezione_0001_0000_0000_libro.xhtml"/>
     <itemref idref="Sezione_0002_0000_0000_libro.xhtml"/>
     <itemref idref="Sezione_0003_0000_0000_libro.xhtml"/>
-    <itemref idref="Sezione_0004_0000_0000_libro.xhtml"/>
-    <itemref idref="Sezione_0005_0000_0000_libro.xhtml"/>
-    <itemref idref="Sezione_0006_0000_0000_libro.xhtml"/>
-    <itemref idref="Sezione_0007_0000_0000_libro.xhtml"/>
-    
   </spine>
   <guide>
     <reference type="cover" title="Cover" href="Text/pagina_1_copertina_libro.xhtml"/>
