@@ -39,12 +39,34 @@ padding : 0;
 .LLinfo {
 font-family : "Courier New";
 }
+.LLinfo-titolo {
+font-family : "Courier New";
+font-weight : bold;
+text-align : center;
+}
+.tabella_centrata {
+margin-left:auto;
+margin-right:auto;
+}
 .testo_centrato {
 text-align : center;
 }
 #testo_copertina {
 display:none;
 visibility:hidden;
+}
+.testo_corsivo {
+font-style: italic;
+}
+.testo_destra {
+text-align : right;
+}
+p.testo_dialogo {
+margin : 0 0 0 1em;
+text-indent : -1em;
+}
+.testo_didascalia {
+page-break-inside:avoid;
 }
 .testo_distanziato {
 padding-top: 2em;
@@ -59,7 +81,26 @@ text-align : center;
 font-size : 250%;
  text-align : center;
 }
-p.testo_indice {
+.testo_grande {
+font-size : 1.5em;
+font-weight : bold;
+}
+.testo_grande-x {
+font-size : 2em;
+font-weight : bold;
+}
+.testo_ind {
+font-style : italic;
+margin : 0 0 0 1em;
+text-indent : -1em;
+}
+.testo_indicazioni_scena {
+font-style : italic;
+}
+p.testo_indicazioni_scena {
+margin : 0 1em 0 1em;
+}
+.testo_indice {
 list-style-type:none;
 margin-left:0;
 padding-left:0;
@@ -70,8 +111,59 @@ text-decoration:none;
 .testo_indice ul {
 list-style-type:none;
 }
+.testo_invisibile {
+display : none;
+visibility : hidden;
+}
+.testo_laterale {
+float : right;
+}
+
+/*
+.testo_laterale + div, ol, p, table, ul {
+clear : both;
+}
+*/
+
+.testo_lettera {
+margin : 1em auto;
+padding : 1em;
+background-color : #EEE;
+width : 90%;
+}
 .testo_maiuscoletto {
 font-variant : small-caps;
+}
+.testo_no_virgolette {
+quotes: none;
+}
+.testo_nota {
+font-size : 90%;
+}
+.testo_nota_torna {
+margin-bottom : 2em;
+}
+p.testo_personaggio {
+color : #400;
+margin-bottom : 0;
+}
+.testo_piccolo {
+font-size : 0.82em;
+}
+.testo_piccolo-x {
+font-size : 0.75em;
+}
+.testo_poesia {
+margin-left : 1em;
+}
+.testo_rientrato {
+margin : 0 1em 0 1em;
+}
+.testo_sinistra {
+text-align : left;
+}
+.testo_tondo {
+font-style : normal;
 }
 
 /* Stili Liber Liber 2025-01-07 - stili specifici INIZIO */
@@ -80,10 +172,6 @@ p.testo_centrato_lontano{
 text-align : center;
 padding-top : 5em;
 padding-bottom : 2em;
-}
-
-p.testo_centrato {
-text-align : center;
 }
 
 p.editore_max{

@@ -7,3 +7,5 @@
 14-01-2025 21:37 Creato una tabella a scopo di formattazione nel file della prefazione.
 
 15-01-2025 18:13 modificato le intestazioni i tag <html> dei file dell'epub come indicato da epubcheck con l'indicazione di xml:lang. Impostato l'indice di massima. Corretto alcune imprecisioni nel file Style0001.css.
+
+17-01-2025 11:00 ottimizzato il foglio di stile. Esteso il primo capitolo.
